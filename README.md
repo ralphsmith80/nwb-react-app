@@ -1,3 +1,3 @@
-# my-app
+# nwb-react-app
 
-Describe my-app here.
+Describe nwb-react-app here.
